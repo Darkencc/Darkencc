@@ -21,9 +21,10 @@
 
 
 <br />
-* Manejo de base de datos con SQL, Python y R. 
-* Transformación y Visualización de datos con Power BI.
-* Habilidades de pensamiento crítico, toma de decisiones y resolución de problemas
+
+* Manejo de base de datos con SQL, Python y R. <br />
+* Transformación y Visualización de datos con Power BI. <br />
+* Habilidades de pensamiento crítico, toma de decisiones y resolución de problemas <br />
 
 ### Conectate conmigo:
 
