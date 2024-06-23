@@ -34,4 +34,4 @@
 <br />
 
 <br />
-Me puedes contartar por correo: ken.corderoc@gmail.com
+También me puedes contactar por correo: ken.corderoc@gmail.com
