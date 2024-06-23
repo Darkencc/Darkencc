@@ -1,4 +1,4 @@
-### Hola 👋  Soy Ken Cordero
+## Hola 👋  Soy Ken Cordero
 
 ## Soy un analista de datos especializado en Power BI, me capacité en diferentes bootcamp donde pude desarrollar todas las habilidades necesarias. Me apasiona poder aplicar mis conocimientos en las empresas en que he trabajado.
 
@@ -17,6 +17,8 @@
 <img align="left" alt="Google Analytics" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/googleanalytics.svg" />
 
 <img align="left" alt="Google Spreadsheet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/googlesheets.svg" />
+
+<br />
 
 * Manejo de base de datos con SQL, Python y R. 
 * Transformación y Visualización de datos con Power BI.
