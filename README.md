@@ -18,6 +18,8 @@
 
 <img align="left" alt="Google Spreadsheet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/googlesheets.svg" />
 
+
+
 <br />
 
 * Manejo de base de datos con SQL, Python y R. 
