@@ -1,4 +1,4 @@
-## Hola 👋  Soy Ken Cordero
+# Hola 👋  Soy Ken Cordero
 
 ## Soy un analista de datos especializado en Power BI, me capacité en diferentes bootcamp donde pude desarrollar todas las habilidades necesarias. Me apasiona poder aplicar mis conocimientos en las empresas en que he trabajado.
 
